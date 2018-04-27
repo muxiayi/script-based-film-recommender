@@ -1,0 +1,17 @@
+prefix = "./search_engine"
+stop-words = "search_engine/stopwords.txt"
+
+dataset = "cranfield"
+corpus = "line.toml"
+index = "search_engine/idx"
+
+query-judgements = "search_engine/cranfield-qrels.txt"
+
+[[analyzers]]
+method = "ngram-word"
+ngram = 1
+filter = "default-unigram-chain"
+
+[query-runner]
+query-path = "search_engine/cranfield-queries.txt"
+query-id-start = 1

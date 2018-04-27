@@ -1,0 +1,59 @@
+img {
+    height: 24px;
+    width: 24px;
+}
+
+textarea{
+    width:500px;
+    height:350px;
+    padding:6px 4px;
+    font-size:14px;
+    background:#fff;
+    display: block;
+    margin-top:10px;
+}
+
+input{
+    width: 400px;
+    font-size:14px;
+    background:#fff;
+    display: block;
+    margin-top:10px;
+}
+
+button{
+    margin-left: 10px;
+}
+
+.placeit{
+    margin-top: -20px;
+    width: 500px;
+}
+
+.rolling{
+    margin-top: 10px;
+    height:150px;
+    width: 810px;
+    overflow:auto;
+    border:1px solid;
+}
+
+.indiv{
+    display: inline-block;
+}
+
+pre{
+  margin-top: 0px;
+  margin-bottom: -10px;
+  margin-left: 10px;
+  display: inline-block;
+  width: 5px; /* whatever width you want */
+}
+
+select{
+	margin-left: 20px;
+}
+
+.left {float:left}
+.right {float:right}
+.clear {clear:both}
