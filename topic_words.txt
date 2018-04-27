@@ -1,0 +1,23 @@
+Genre,Topic Words
+Action,action,access,walking,wave,war,addresses,bag,realizes,beat,screaming
+Adventure,abandoned,aback,wanders,approach,aboard,microphone,ah,able,also,airplane
+Animation,mirror,impact,toes,action,crack,tumbling,cheering,helmet,creaks,sounds
+Biography,black,bedroom,tom,telegram,scuffle,radio,scales,rumbles,upper,rushing
+Comedy,apartment,approaches,baby,best,almost,step,showing,read,passing,totally
+Crime,action,act,notices,wait,gasps,uniformed,say,packing,able,stage
+Drama,aback,also,work,may,able,always,waits,tv,abandoned,among
+Family,blows,digging,least,knew,dripping,devastated,stranger,sort,without,pans
+Fantasy,board,believe,quiet,say,lifts,riding,velvet,calm,playing,pulled
+Film-Noir,activity,touch,totally,uncomfortable,think,talking,passengers,people,replaces,second
+History,gets,get,arm,ask,glances,glasses,conversation,dark,sister,jumps
+Horror,able,aback,terrified,anything,abandoned,monster,beside,surrounding,abandoned,splinters
+Music,beauty,blond,records,pleasant,ruins,sheet,closing,except,suit,sure
+Musical,bridge,call,amazement,snap,driver,due,tea,what,stomach,return
+Mystery,able,abandoned,stalks,windows,obviously,quite,unsure,tree,projected,opening
+Romance,angry,answer,anyone,always,town,among,approach,pours,tie,though
+Sci-Fi,able,abandoned,roll,deal,aboard,abruptly,absolutely,luck,madly,rusted
+Short,paula,co,back,five,one,disciple,like,hand,room,later
+Sport,tell,room,doctor,shit,vegas,water,plan,name,loss,think
+Thriller,abandoned,able,wheel,waits,ball,visible,family,wooden,abandoned,sun
+War,marked,civilians,docks,blankly,furiously,inches,cheek,mass,uses,bloody
+Western,amused,tilted,threatening,stealthily,stagger,lettered,tossing,stood,waking,stalks
