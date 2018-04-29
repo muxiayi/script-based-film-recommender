@@ -1,0 +1,2 @@
+SET PASSWORD FOR 'root'@'localhost' = PASSWORD('');
+CREATE DATABASE IF NOT EXISTS FilmRecommendation;

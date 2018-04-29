@@ -1,0 +1,6 @@
+1. First use download_database.sh to download the dataset from the website.
+   This automatically uses AutoPhrase to process the dataset.
+   The processing step may take around 10 hrs.
+2. Use init_db.sh to initialize MySQL.
+3. Use rebuild_database.py to import the genre results of topic_modeling_and_clustering.py into MySQL. Here we do not run the py file since we acquire the data offline and use it directly as txt file in this folder.
+4. topic_modeling_and_clustering.py use a different dataset, which can be found at https://nlds.soe.ucsc.edu/node/34/done?sid=3888&token=e3253342d010f9b1a5da26c6e7d56b03

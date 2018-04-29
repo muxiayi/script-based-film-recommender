@@ -1,5 +1,7 @@
 # CS410-final-project
 
+0. For dataset download and preprocessing, please cd to rebuild_database and read usage.txt
+
 1. Use MeTA to build the search engine for user input.
 
 2. Use AutoPhrase for extracting high quality words from movie scripts and then recommend 10 most similar movies from database.
