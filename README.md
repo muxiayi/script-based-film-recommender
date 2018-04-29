@@ -8,7 +8,7 @@
 
 3. Use SVM for classifying user input script to predict their favorite tags.
 
-4. Use topic modeling and clustering to recommend tag-related keywords.
+4. Use NLTK and Scikit-learn for topic modeling to recommend tag-related keywords.
 
 5. Database comes from: https://nlds.soe.ucsc.edu/node/34/done?sid=3888&token=e3253342d010f9b1a5da26c6e7d56b03
 
