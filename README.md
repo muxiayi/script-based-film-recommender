@@ -12,7 +12,7 @@
 
 5. Database comes from: https://nlds.soe.ucsc.edu/node/34/done?sid=3888&token=e3253342d010f9b1a5da26c6e7d56b03
 
-6. Project documentation please see: CS410 final project documentation.pdf
+6. Project documentation please see: 410 final project documentation.pdf
 
 Reference:
 
